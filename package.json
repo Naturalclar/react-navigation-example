@@ -10,29 +10,29 @@
     "run-ios": "react-native run-ios"
   },
   "dependencies": {
-    "react": "16.3.1",
-    "react-native": "0.55.4",
+    "react": "16.5.2",
+    "react-native": "0.57.3",
     "react-navigation": "^2.5.5",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.5",
-    "babel-jest": "23.2.0",
-    "babel-preset-react-native": "4.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "23.6.0",
+    "babel-preset-react-native": "4.0.1",
     "eslint": "^5.0.1",
     "eslint-config-airbnb": "^17.0.0",
-    "eslint-plugin-flowtype": "^2.49.3",
+    "eslint-plugin-flowtype": "^3.0.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.10.0",
     "eslint-plugin-react-native": "^3.2.1",
     "flow-typed": "^2.4.0",
-    "jest": "23.2.0",
+    "jest": "23.6.0",
     "lint-staged": "^7.2.0",
     "pre-commit": "^1.2.2",
     "prettier": "^1.13.7",
-    "react-test-renderer": "16.3.1"
+    "react-test-renderer": "16.5.2"
   },
   "lint-staged": {
     "*.js": "lint"
